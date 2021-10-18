@@ -1,0 +1,16 @@
+# Abandon all hope, ye who enter here
+
+PGP [0x9D6F0921](./0x9D6F0921.asc) fingerprint:
+
+```plain
+pub   ed25519 2025-05-05 [C] [expires: 2027-05-05]
+      BFEF 346D 66F1 9EC3 DA7B  1465 23AF 7CFF 9D6F 0921
+uid                      Christoph Hoopmann <choopm@0pointer.org>
+uid                      Christoph Hoopmann <christophhoopmann@gmail.com>
+sub   cv25519 2025-05-05 [E] [expires: 2027-05-05]
+sub   ed25519 2025-05-05 [S] [expires: 2027-05-05]
+```
+
+Spam goes here: <a href="mailto:choopm@0pointer.org">choopm@0pointer.org</a>
+
+[![Metrics](./github-metrics.svg)](https://metrics.lecoq.io/about/choopm)
