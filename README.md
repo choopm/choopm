@@ -1,6 +1,6 @@
 # hi!
 
-[![Metrics](https://metrics.lecoq.io/choopm?template=classic&languages=1&stars=1&people=1&tweets=1&languages.ignored=HTML%2CCSS&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&tweets.attachments=false&tweets.limit=2&repositories.forks=true&config.timezone=Europe%2FBerlin)](https://metrics.lecoq.io/about/choopm)
+![Metrics](./github-metrics.svg)
 
 ## PGP public keys:
 
